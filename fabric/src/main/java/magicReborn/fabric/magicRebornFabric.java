@@ -1,8 +1,10 @@
-package com.example.examplemod;
+package magicReborn.fabric;
 
+import magicReborn.common.CommonClass;
+import magicReborn.common.Constants;
 import net.fabricmc.api.ModInitializer;
 
-public class ExampleMod implements ModInitializer {
+public class magicRebornFabric implements ModInitializer {
     
     @Override
     public void onInitialize() {

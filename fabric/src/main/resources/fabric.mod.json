@@ -1,6 +1,6 @@
 {
     "schemaVersion": 1,
-    "id": "mod_id",
+    "id": "magicreborn",
     "version": "${version}",
     "name": "${mod_name}",
     "description": "${description}",
@@ -16,7 +16,7 @@
     "environment": "*",
     "entrypoints": {
         "main": [
-            "com.example.examplemod.ExampleMod"
+            "magicReborn.fabric.magicRebornFabric"
         ]
     },
     "mixins": [

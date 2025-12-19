@@ -1,8 +1,7 @@
-package com.example.examplemod.mixin;
+package magicReborn.common.mixin;
 
-import com.example.examplemod.Constants;
+import magicReborn.common.Constants;
 import net.minecraft.client.Minecraft;
-import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;

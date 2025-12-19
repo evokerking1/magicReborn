@@ -1,7 +1,7 @@
-package com.example.examplemod.platform;
+package magicReborn.common.platform;
 
-import com.example.examplemod.Constants;
-import com.example.examplemod.platform.services.IPlatformHelper;
+import magicReborn.common.Constants;
+import magicReborn.common.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

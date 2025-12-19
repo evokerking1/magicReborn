@@ -1,6 +1,6 @@
-package com.example.examplemod.mixin;
+package magicReborn.fabric.mixin;
 
-import com.example.examplemod.Constants;
+import magicReborn.common.Constants;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
